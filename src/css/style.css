@@ -285,8 +285,12 @@ section.workflow  .container {
     flex-direction: column;
 }
 
-.workflow .container .workflow-list .card img {
+.workflow .container .workflow-list .card .icon-container {
     width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
     margin-bottom: 4rem;
 }
 
@@ -435,7 +439,6 @@ section.clipboard .container {
         width: 32px;
         height: 32px;
     }
-
 }
 
 @media (max-width: 1024px) {
