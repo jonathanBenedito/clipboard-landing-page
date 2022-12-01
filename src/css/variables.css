@@ -1,0 +1,14 @@
+:root {
+    --cyan-color: hsl(171, 66%, 44%);
+    --blue-color: hsl(233, 100%, 69%);
+
+    --dark-grayish-blue-color: hsl(210, 10%, 33%);
+    --grayish-blue-color: hsl(201, 11%, 66%);
+
+    --footer-background-color: #F5F6F8;
+
+    --hover-button-overlay: white;
+    --button-font-color: white;
+    --button-green-box-shadow-color: hsla(171, 77%, 62%, 0.486);
+    --button-blue-box-shadow-color: hsla(233, 100%, 69%, 0.479);
+}
